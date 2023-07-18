@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Berry
+  - Trap
+  - BGM
+  - Enemy
+  - PowerBall
+  - Pea
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1348810599
+    locked: 0
+  - name: OverBackground
+    uniqueID: 8360385
+    locked: 0
+  - name: Terrain
+    uniqueID: 3807759135
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
